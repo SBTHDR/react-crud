@@ -35,7 +35,7 @@ const UserTable = (props) => (
         ))
       ) : (
         <div>
-          <p className='text-xl text-red-400'>No users available</p>
+          <p className='text-xl text-red-400 text-center mt-2'>No users available</p>
         </div>
       )}
     </div>
